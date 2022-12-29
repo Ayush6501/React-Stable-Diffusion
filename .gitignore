@@ -4,9 +4,10 @@
 /node_modules
 /.pnp
 .pnp.js
-
+/backend/auth_token.py
 # testing
 /coverage
+/backend/__pycache__/
 
 # production
 /build
